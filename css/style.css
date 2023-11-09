@@ -13640,8 +13640,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-brand img {
-	max-width: 170px;
-	max-height: 58px;
+	max-width: 60px;
 	width: auto;
 	height: auto;
 }
